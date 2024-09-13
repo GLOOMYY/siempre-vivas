@@ -10,10 +10,10 @@ export function Team () {
           <Card>
             <CardContent className="flex flex-col items-center space-y-4 p-6">
               <img
-                alt="Jane Doe"
+                alt="Mujer 1"
                 className="aspect-square overflow-hidden rounded-full object-cover object-center"
                 height="150"
-                src="/mujer1.jpg"
+                src="/Mujer1.jpg"
                 width="150"
               />
               <div className="text-center">
@@ -25,10 +25,10 @@ export function Team () {
           <Card>
             <CardContent className="flex flex-col items-center space-y-4 p-6">
               <img
-                alt="John Smith"
+                alt="Mujer 2"
                 className="aspect-square overflow-hidden rounded-full object-cover object-center"
                 height="150"
-                src="/mujer2.jpg"
+                src="/Mujer2.jpg"
                 width="150"
               />
               <div className="text-center">
@@ -40,10 +40,10 @@ export function Team () {
           <Card>
             <CardContent className="flex flex-col items-center space-y-4 p-6">
               <img
-                alt="Emily Brown"
+                alt="Mujer 3"
                 className="aspect-square overflow-hidden rounded-full object-cover object-center"
                 height="150"
-                src="mujer3.jpg"
+                src="Mujer3.jpg"
                 width="150"
               />
               <div className="text-center">
