@@ -50,7 +50,7 @@ export function FoundationLandingPageComponent() {
                   Empoderamos a las mujeres
                 </h1>
                 <p className="mx-auto max-w-[700px] text-white md:text-xl">
-                Buscando conservar nuestros saberes ancestrales, nuestras tradiciones y buscando una independencia económica desde el comercio justo y el respeto por el medio ambiente.
+                Conservando nuestros saberes ancestrales, nuestras tradiciones y buscando una independencia económica desde el comercio justo y el respeto por el medio ambiente
                 </p> 
               </div>
               <div className="space-x-4">
